@@ -21,7 +21,18 @@
       "id": 2
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Steve",
+      "email": "steve1234@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Sam",
+      "email": "sam1234@gmail.com"
+    }
+  ],
   "robots": [{
     "robotName": "C8-09S100K",
     "robotType": "Human Assistant",
